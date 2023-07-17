@@ -1,0 +1,11 @@
+1.What are the basic checks we do for pandas dataframe?
+1. creating a data frame.
+2.performing operations on rows and columns.
+3.data selection,addition,deletion.
+4.working with missing data.
+5.renaming the columns or indices of a dataframe.
+
+2.What is pandas dataframe?
+1.Dataframe is a2-dimenstional labeled data structure with columns of potentially different types.
+2.you can think of it like a spreadsheet or SQL table, or a dict of series objects.
+3.it is generally the most commonly used pandas object.
